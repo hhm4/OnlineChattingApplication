@@ -1,6 +1,16 @@
 <resources>
-    <string name="app_name">My Application</string>
-
+    <string name="app_name">Online Chat</string>
+    <string name="signup"><b>Sign Up</b></string>
+    <string name="signup_name"><b>Name</b></string>
+    <string name="signup_cancel"><b>Cancel</b></string>
+    <string name="signup_submit"><b>Submit</b></string>
+    <string name="signup_emailID"><b>Email ID</b></string>
+    <string name="signup_password"><b>Password</b></string>
+    <string name="signin_emailID"><b>Email ID</b></string>
+    <string name="signin_password"><b>Password</b></string>
+    <string name="signin_signIn"><b>Sign In</b></string>
+    <string name="signin_signUp"><b>Sign Up</b></string>
+    <string name="signin"><b>Sign In</b></string>
     <string name="hello_world">Welcome to online chatting application!</string>
     <string name="action_settings">Settings</string>
 </resources>

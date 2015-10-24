@@ -1,8 +1,13 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme"   parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">#fcfff9</item>
+
         <!-- Customize your theme here. -->
     </style>
-
+    <style name="MyTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
 </resources>
