@@ -60,6 +60,7 @@ public class MainActivity extends Activity {
             SharedPreferences.Editor editor = sp.edit();
             editor.putBoolean("firstTime", true);
             editor.commit();
+
         }
     }
 }
